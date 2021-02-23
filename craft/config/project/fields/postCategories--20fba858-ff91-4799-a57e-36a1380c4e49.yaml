@@ -1,0 +1,23 @@
+contentColumnType: string
+fieldGroup: 0a8e3431-6bf0-42ab-b2a8-0c8758e57f22
+handle: postCategories
+instructions: ''
+name: 'Post Categories'
+searchable: false
+settings:
+  allowLimit: false
+  allowMultipleSources: false
+  allowSelfRelations: false
+  branchLimit: ''
+  limit: null
+  localizeRelations: false
+  selectionLabel: ''
+  showSiteMenu: false
+  source: 'group:af28dd1c-c2ff-4236-92be-4f5f1c2d2946'
+  sources: '*'
+  targetSiteId: null
+  validateRelatedElements: false
+  viewMode: null
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Categories

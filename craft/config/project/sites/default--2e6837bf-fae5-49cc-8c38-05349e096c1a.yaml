@@ -1,0 +1,9 @@
+baseUrl: 'http://localhost:8888/'
+enabled: true
+handle: default
+hasUrls: true
+language: en-US
+name: tutorial
+primary: true
+siteGroup: cbbd7e67-2b77-4e2d-86ba-febc8bde4bdf
+sortOrder: 1
